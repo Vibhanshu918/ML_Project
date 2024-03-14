@@ -1,0 +1,5 @@
+#This file will have all the pacakges and libraries I want to install while I'm implemeting my project
+numpy
+pandas
+seaborn
+-e .
