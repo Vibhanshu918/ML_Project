@@ -1,0 +1,1 @@
+#we are creating this because component can also be imported as a module
